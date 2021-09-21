@@ -3054,20 +3054,20 @@ var templateObject_1$P;
 
 var baseColors = {
     failure: "#ED4B9E",
-    primary: "#f98c08",
-    primaryBright: "#ffb948",
-    primaryDark: "#f98c08",
-    secondary: "#ffb948",
+    primary: "#5BC43A",
+    primaryBright: "#0B0B0B",
+    primaryDark: "#5BC43A",
+    secondary: "#0B0B0B",
     success: "#31D0AA",
     warning: "#FFB237",
 };
 var brandColors = {
     binance: "#F0B90B",
 };
-var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#FFFFFF", backgroundDisabled: "#E9EAEB", contrast: "#261d13", invertedContrast: "#FFFFFF", input: "#f4efea", 
+var lightColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#F6F6F7", backgroundDisabled: "#E9EAEB", contrast: "#261d13", invertedContrast: "#FFFFFF", input: "#f4efea", 
     // inputBorder: "#cccccc",
-    inputSecondary: "#cccccc", tertiary: "#f5f3ef", text: "#333333", textDisabled: "#BDC2C4", textSubtle: "#703c2c", activeButton: "#397f49", borderColor: "#E9EAEB", card: "#FFFFFF", nav: "#FFFFFF", gradients: {
-        bubblegum: "linear-gradient(139.73deg, #E6FDFF 0%, #F3EFFF 100%)",
+    inputSecondary: "#cccccc", tertiary: "#f5f3ef", text: "#333333", textDisabled: "#BDC2C4", textSubtle: "#52af34", activeButton: "#397f49", borderColor: "#E9EAEB", card: "#FFFFFF", nav: "#FFFFFF", gradients: {
+        bubblegum: "linear-gradient(139.73deg, #e8e8e8 0%, #F6F6F7 100%)",
     } });
 var darkColors = __assign(__assign(__assign({}, baseColors), brandColors), { background: "#353331", backgroundDisabled: "#423d37", contrast: "#FFFFFF", invertedContrast: "#261e13", input: "#5a4d3f", 
     // inputBorder: "#cccccc",    
